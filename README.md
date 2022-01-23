@@ -153,4 +153,4 @@ nvm install stable
 ```bash
 npm install standard --global
 ```
-(link)[https://standardjs.com/index.html#install] for reference
+[link](https://standardjs.com/index.html#install) for reference
