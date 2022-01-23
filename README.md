@@ -79,3 +79,32 @@ mkdir .hushlogin
 brew install git
 ```
 
+### Install Rectangle
+```bash
+brew install --cask rectangle
+```
+Move and resize windows using keyboard shortcuts or snap areas
+
+### Install Alfred
+```bash
+brew install --cask alfred
+```
+Application launcher and productivity software
+
+### Alfred Setup
+#### Mac
+To change spotlight shortcut keys go to
+- System Preferences > Keyboard > Shortcuts > Spotlight
+
+#### Alfred
+- In General Change Alfred Hotkey to Cmd + Space
+- In Features > Default Results 
+  - In Extras, check `folders`
+- In Appearance, select Alfred macOS Dark
+- In Appearance, select option at the bottom, in How He Looks, check `Hide hat on Alfred Window` and `Hide menu bar icon`
+
+### Install dozer
+```bash
+brew install --cask dozer
+```
+Tool to hide status bar icons
