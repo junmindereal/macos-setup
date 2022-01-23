@@ -108,3 +108,44 @@ To change spotlight shortcut keys go to
 brew install --cask dozer
 ```
 Tool to hide status bar icons
+#### dozer preferences
+Launch at login
+Hide both Dozer icons when status bar icons are hidden
+Enable 'remove' Dozer icon
+
+### Install Google Chrome
+```bash
+brew install --cask google-chrome
+```
+
+### Desktop
+- Remove apps on dock
+#### Dock preferences
+- Size: small
+- Position on screen: right
+- Show recent application in Dock: uncheck
+
+#### Finder preferences
+- Favorites
+  - root (junmindereal)
+  - Desktop
+  - Documents
+  - Downloads
+  - Applications
+  - AirDrop
+- Remove all other items in sidebar
+- show items as list (cmd + 3)
+- Show all file name extensions
+- New finder windows shows root (junmindereal)
+- Remove items from the trash after 30 days
+
+### Install nvm
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+```
+Manage multiple Node.js versions
+
+### Intall Node.js 
+```bash
+nvm install stable
+```
