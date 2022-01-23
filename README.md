@@ -111,7 +111,6 @@ Tool to hide status bar icons
 #### dozer preferences
 Launch at login
 Hide both Dozer icons when status bar icons are hidden
-Enable 'remove' Dozer icon
 
 ### Install Google Chrome
 ```bash
@@ -149,3 +148,9 @@ Manage multiple Node.js versions
 ```bash
 nvm install stable
 ```
+
+### Standard JS
+```bash
+npm install standard --global
+```
+(link)[https://standardjs.com/index.html#install] for reference
